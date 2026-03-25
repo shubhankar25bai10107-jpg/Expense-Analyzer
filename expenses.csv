@@ -1,4 +1,4 @@
-Description,Amount,Category
+description,amount,category
 "pizza order",300,Food
 "uber ride",150,Travel
 "movie ticket",250,Entertainment
